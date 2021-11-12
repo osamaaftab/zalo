@@ -1,1 +1,1 @@
-# Android-Arch-Sample
+# Image loading sample
